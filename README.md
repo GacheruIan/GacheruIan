@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gacheru Ian</h1>
 <img align = "right" alt="img-cdcxcoding" width="400"src = "https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"></img>
-<h3 align="left">A passionate full-stack developer and tech-enthusiast 👨‍💻.<br> I have a deep passion for tech and problem solving, building my version of the digital world one step at a time.</h3>
+<h3 align="left">A passionate full-stack developer and tech-enthusiast 👨‍💻.<br> I have a deep passion for tech and problem solving,<br> building my version of the digital world one step at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gacheruian&label=Profile%20views&color=0e75b6&style=flat" alt="gacheruian" /> </p>
 
