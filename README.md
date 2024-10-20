@@ -3,7 +3,7 @@
 
 <h3 align="left">Dedicated DevOps engineer and Python enthusiast with a passion for automation and problem-solving.<br> I'm committed to building efficient solutions that drive the future of tech 🚀.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gacheruian&label=Profile%20views&color=0e75b6&style=flat" alt="gacheruian" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gacheruian&label=Profile%20views&color=0e75b6&style=flat" alt="gacheruian" /> </p><br />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gacheruian" alt="gacheruian" /></a> </p>
 
