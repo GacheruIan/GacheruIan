@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gacheru Ian (SRE) </h1>
 <img align="right" alt="img-cdcxcoding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"></img>
 
-<h3 align="left"><br>I'm committed to building efficient solutions that drive the future of tech 🚀.</h3>
+<h3 align="left"><br>Platforms and Infrastructure Engineer with experience managing production infrastructure, supporting high-traffic applications, and maintaining highly available services across cloud and on-premises environments. Skilled in infrastructure automation, platform reliability, deployment engineering, observability, and incident response. Proven track record of improving system stability, streamlining software delivery, supporting regional production workloads, and driving cloud migration initiatives while maintaining service uptime and operational excellence.
+🚀.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gacheruian&label=Profile%20views&color=0e75b6&style=flat" alt="gacheruian" /> </p><br />
 
