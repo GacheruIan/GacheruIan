@@ -3,14 +3,9 @@
 
 <div style="max-width: 900px; text-align: justify; line-height: 1.6;">
   <h3>
-    Platforms and Infrastructure Engineer with experience managing production 
-    infrastructure, supporting high-traffic applications, and maintaining highly 
-    available services across cloud and on-premises environments. Skilled in 
-    infrastructure automation, platform reliability, deployment engineering, 
-    observability, and incident response. Proven track record of improving system 
-    stability, streamlining software delivery, supporting regional production 
-    workloads, and driving cloud migration initiatives while maintaining service 
-    uptime and operational excellence. 🚀
+    🚀 Platform Engineer building reliable cloud infrastructure, automating 
+    deployments, and improving system reliability. Passionate about Kubernetes, 
+    CI/CD, observability, and designing scalable production platforms.
   </h3>
 </div>
 
