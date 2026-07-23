@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gacheru Ian (SRE) </h1>
+<h1 align="center">Hi 👋, I'm Gacheru Ian </h1>
 <img align="right" alt="img-cdcxcoding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"></img>
 
 <div style="max-width: 900px; text-align: justify; line-height: 1.6;">
