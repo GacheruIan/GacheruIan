@@ -3,7 +3,7 @@
 <h3 align="center">Platform & Infrastructure Engineer | Site Reliability Engineer</h3>
 
 <p align="center">
-  Building reliable cloud infrastructure, automating deployments, and improving production reliability.
+  Building reliable cloud infrastructure, automated delivery pipelines, and production-ready Kubernetes platforms.
 </p>
 
 <p align="center">
@@ -22,29 +22,43 @@
 
 Platform and Infrastructure Engineer with over three years of experience supporting business-critical systems across cloud, on-premises, and data-centre environments.
 
-I work with Kubernetes, Docker, GCP, Terraform, CI/CD, GitOps, Linux, networking, and observability. My software engineering background helps me understand both how applications are built and what they need to run securely and reliably in production.
+I work with Kubernetes, GCP, Docker, Terraform, CI/CD, GitOps, Linux, networking, security, and observability. My software engineering background helps me bridge application development and reliable production operations.
 
-## Selected Projects
+## Selected Project
 
-### Cloud-Native Application Deployment
+### End-to-End Kubernetes Delivery Platform
 
-Containerized and deployed a Next.js application to Kubernetes using multiple replicas, resource limits, health checks, readiness probes, and declarative manifests managed through Argo CD.
-
-### Safe Deployment Pipeline
-
-Building a CI/CD pipeline that:
+A production-focused platform engineering project for securely building, publishing, and deploying a containerized application to Kubernetes.
 
 ```mermaid
 flowchart LR
-    A[Code] --> B[Test]
-    B --> C[Build]
-    C --> D[Scan]
-    D --> E[Registry]
-    E --> F[Argo CD]
-    F --> G[Verify]
+    A[Source] --> B[CI Quality Gates]
+    B --> C[Container Build]
+    C --> D[Security Scan]
+    D --> E[Artifact Registry]
+    E --> F[GitOps Repository]
+    F --> G[Argo CD]
+    G --> H[Kubernetes]
+    H --> I[Monitoring]
 ```
 
-The workflow builds and scans container images, publishes them to an artifact registry, deploys through GitOps, verifies application health, and supports rollback when a release fails.
+The platform includes:
+
+* Automated linting, testing, and application builds
+* Multi-stage Docker builds with dependency caching
+* Container vulnerability scanning before publication
+* Immutable image tagging using Git commit identifiers
+* Image storage in an OCI-compatible artifact registry
+* Kubernetes configuration managed with Helm
+* GitOps deployments and drift correction using Argo CD
+* ConfigMaps and externally managed application secrets
+* Readiness, liveness, and startup health probes
+* Resource requests, limits, and multiple application replicas
+* Rolling updates with deployment health verification
+* Prometheus metrics and Grafana dashboards
+* Automated rollback when deployment verification fails
+
+The project demonstrates the complete delivery path from a developer commit to a secure, observable, and recoverable Kubernetes deployment.
 
 ---
 
