@@ -1,50 +1,116 @@
-<h1 align="center">Hi 👋, I'm Gacheru Ian </h1>
-<img align="right" alt="img-cdcxcoding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"></img>
+<h1 align="center">Hi 👋, I'm Ian Gacheru Kibue</h1>
 
-<div style="max-width: 900px; text-align: justify; line-height: 1.6;">
-  <h3>
-    🚀 Platform Engineer building reliable cloud infrastructure, automating 
-    deployments, and improving system reliability. Passionate about Kubernetes, 
-    CI/CD, observability, and designing scalable production platforms.
-  </h3>
-</div>
+<h3 align="center">Platform & Infrastructure Engineer | Site Reliability Engineer</h3>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://twitter.com/gacherulan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gacherulan" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/ian~kibui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ian~kibui" height="30" width="40" /></a>
-<!-- <a href="https://discord.gg/https://discord.gg/PY5nRDAe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/PY5nRDAe" height="30" width="40" /></a> -->
+<p align="center">
+  I build reliable cloud infrastructure, automate software delivery, and keep production systems secure, observable, and available.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="helm" width="40" height="40"/> </a>
-<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github-actions" width="40" height="40"/> </a>
-<a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/> </a>
-<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a>
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<p align="center">
+  <a href="https://iangk.netlify.app">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ian~kibui">LinkedIn</a> •
+  <a href="mailto:gacheruian99@gmail.com">Email</a>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+I’m a Platform and Infrastructure Engineer with over three years of hands-on experience supporting business-critical systems across cloud, on-premises, and data-centre environments.
+
+My background began in software engineering before I transitioned into infrastructure and Site Reliability Engineering. This allows me to understand both how applications are built and what they need to run reliably in production.
+
+I have supported production environments across Kenya, Zambia, Tanzania, and the DRC while working with Linux systems, networking, Kubernetes, cloud infrastructure, CI/CD pipelines, monitoring, and incident response.
+
+## 🛠️ What I Do
+
+* Build and operate containerized applications using Docker and Kubernetes
+* Automate application delivery with GitHub Actions, GitLab CI/CD, Jenkins, Helm, and Argo CD
+* Provision and manage cloud infrastructure using GCP and Terraform
+* Monitor production systems using Prometheus and Grafana
+* Troubleshoot Linux, networking, DNS, SSL/TLS, reverse proxies, and application issues
+* Manage secure access, secrets, firewall rules, VPNs, and production configurations
+* Support reliable releases, incident response, rollback procedures, and root-cause analysis
+
+## 🚀 Current Focus
+
+* Building production-ready CI/CD pipelines
+* Deepening my Google Cloud architecture knowledge
+* Kubernetes and cloud-native security
+* GitOps deployments with Argo CD
+* Infrastructure automation using Terraform
+* Preparing for the Google Cloud Professional Cloud Architect and KCSA certifications
+
+## 🔧 Technologies and Tools
+
+### Cloud, Containers and Infrastructure
 
 <p>
-<a href="https://github.com/GacheruIan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GacheruIan" />
-</a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" width="42" height="42"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gacheruian&" alt="gacheruian" /></p>
+### CI/CD, GitOps and Observability
 
-<h3 align="left">Articles I’ve Written:</h3>
-<p align="left">
-  Check out my articles on Medium: 
-  <a href="https://medium.com/@gacheruian99" target="_blank">My Medium Profile</a>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab CI/CD" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="Argo CD" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="42" height="42"/>
+</p>
+
+### Software Background
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
+</p>
+
+## 📌 Featured Project
+
+### Cloud-Native Portfolio Deployment
+
+A practical DevOps project where I containerized a Next.js portfolio application and deployed it to Kubernetes.
+
+The project includes:
+
+* Multi-stage Docker builds
+* Kubernetes deployments and services
+* Health checks and readiness probes
+* CPU and memory requests and limits
+* CI pipelines using GitHub Actions
+* Build-artifact management between pipeline jobs
+* GitOps deployment using Argo CD
+* Planned deployment to Google Kubernetes Engine
+
+<p>
+  <a href="https://github.com/GacheruIan/portfolio-revamp-new">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GacheruIan&repo=portfolio-revamp-new&theme=github_dark" alt="Portfolio repository"/>
+  </a>
+</p>
+
+## 📊 GitHub Activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=GacheruIan&show_icons=true&theme=github_dark&hide_border=true" alt="Ian's GitHub statistics"/>
+</p>
+
+---
+
+<p align="center">
+  💬 I’m interested in Platform Engineering, DevOps, SRE, Cloud Infrastructure, and Technical Implementation opportunities.
+</p>
+
+<p align="center">
+  <strong>Build reliably. Automate intentionally. Improve continuously.</strong>
 </p>
