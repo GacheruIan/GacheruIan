@@ -22,45 +22,48 @@
 
 Platform and Infrastructure Engineer with over three years of experience supporting business-critical systems across cloud, on-premises, and data-centre environments.
 
-I work with Kubernetes, GCP, Docker, Terraform, CI/CD, GitOps, Linux, networking, security, and observability. My software engineering background helps me bridge application development and reliable production operations.
+I work with Kubernetes, GCP, Docker, Terraform, CI/CD, GitOps, Linux, networking, and observability. My software engineering background helps me understand both the application and the infrastructure keeping it alive.
+
+I enjoy turning “it works on my machine” into repeatable deployments that work everywhere.
 
 ## Selected Project
 
 ### End-to-End Kubernetes Delivery Platform
 
-A production-focused platform engineering project for securely building, publishing, and deploying a containerized application to Kubernetes.
+A production-focused project for securely building, publishing, and deploying a containerized application to Kubernetes.
 
 ```mermaid
 flowchart LR
-    A[Source] --> B[CI Quality Gates]
-    B --> C[Container Build]
-    C --> D[Security Scan]
-    D --> E[Artifact Registry]
-    E --> F[GitOps Repository]
-    F --> G[Argo CD]
-    G --> H[Kubernetes]
-    H --> I[Monitoring]
+    A[Source] --> B[CI Gates]
+    B --> C[Build and Scan]
+    C --> D[Artifact Registry]
+    D --> E[GitOps]
+    E --> F[Kubernetes]
+    F --> G[Observe and Verify]
 ```
 
 The platform includes:
 
 * Automated linting, testing, and application builds
 * Multi-stage Docker builds with dependency caching
-* Container vulnerability scanning before publication
-* Immutable image tagging using Git commit identifiers
-* Image storage in an OCI-compatible artifact registry
-* Kubernetes configuration managed with Helm
+* Container vulnerability scanning and immutable image tags
+* Image publishing to an OCI-compatible artifact registry
+* Helm-based Kubernetes configuration
 * GitOps deployments and drift correction using Argo CD
-* ConfigMaps and externally managed application secrets
-* Readiness, liveness, and startup health probes
-* Resource requests, limits, and multiple application replicas
-* Rolling updates with deployment health verification
-* Prometheus metrics and Grafana dashboards
-* Automated rollback when deployment verification fails
+* ConfigMaps and externally managed secrets
+* Health probes, resource controls, and rolling updates
+* Prometheus monitoring and Grafana dashboards
+* Deployment verification and rollback procedures
 
-The project demonstrates the complete delivery path from a developer commit to a secure, observable, and recoverable Kubernetes deployment.
+The goal is simple: make deployments boring, predictable, and easy to recover when something goes wrong.
 
 ---
+
+```bash
+$ kubectl get career
+NAME              STATUS     RESTARTS
+ian-gacheru       Growing    0
+```
 
 <p align="center">
   <strong>Build reliably. Automate intentionally. Improve continuously.</strong>
